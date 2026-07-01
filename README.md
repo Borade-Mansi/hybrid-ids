@@ -1,2 +1,2 @@
-# hybrid-ids-rf-lstm
-Hybrid Intrusion Detection System using Random Forest and Bidirectional LSTM with FastAPI and Docker for real-time network attack detection.
+# Hybrid Intrusion Detection System (Hybrid IDS)
+### Random Forest + Bidirectional LSTM for Real-Time Network Security.
